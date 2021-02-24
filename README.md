@@ -5,4 +5,14 @@
  
  Adicionando esta linha pelo servidor remoto :D
 
-Estudando sobre **Markdown**
+Estudando sobre Markdown
+***
+ __Markdown__ ou _Markdown_
+ **Markdown** ou *Markdown*
+ ____
+~~Markdown~~
+__*Markdown*__
+---
+# Markdown
+## Markdown
+### Markdown
